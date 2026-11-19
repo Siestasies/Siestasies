@@ -32,6 +32,7 @@ What I've built so far:
 | [Umapyoi Engine](https://github.com/Siestasies/GAM200-250_UmapyoiEngine) | C++/OpenGL 2D engine + editor (team of 6, 1 year) | Graphics, lighting, particles, shaders, cutscenes |
 | [Parry Everything](https://github.com/Siestasies/GAM150_PARRY_EVERYTHING) | 2D roguelite built on timing-based parries | Procedural dungeons, travel map, minimap |
 | [DROOM!](https://github.com/Siestasies/GAM100_DROOM) | Doom-style 2.5D software-rendered engine in C | Enemy AI state machine, menus, HUD |
+| [Radiation Demo](https://github.com/Siestasies/radiation-demo) | Research prototype: grid-based radiation spread for tactical shooters, with wind, rain and staged detonations | Simulation (diffusion-advection, Dijkstra distance fields), heatmap and tuning UI |
 
 ## Tech
 C · C++ · Python
