@@ -5,7 +5,9 @@ Singapore Institute of Technology and DigiPen Institute of Technology.
 I mostly work in C and C++.
 
 [Portfolio](https://siestasies.github.io/)
+
 [LinkedIn](https://www.linkedin.com/in/javier-chua/)
+
 E-mail: javierchua001@gmail.com
 
 ## Currently working on
