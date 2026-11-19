@@ -8,7 +8,7 @@ I mostly work in C and C++.
 
 [LinkedIn](https://www.linkedin.com/in/javier-chua/)
 
-E-mail: javierchua001@gmail.com
+javierchua001@gmail.com
 
 ## Currently working on
 **AnytimeReno** (ongoing school group project, team of seven, private repo):
