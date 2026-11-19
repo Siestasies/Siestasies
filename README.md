@@ -22,7 +22,7 @@ What I've built so far:
 - **Wall-mounted placement:** items that snap to walls and stay attached as
   the walls are edited
 
-[Click here to take a look!](https://team35.dp-ext8.com/)
+[Click here to take a look at AnytimeReno!](https://team35.dp-ext8.com/)
 
 ## Projects
 | Project | What it is | My role |
