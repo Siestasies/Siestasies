@@ -4,7 +4,9 @@ Computer Science student in Real-Time Interactive Simulation at the
 Singapore Institute of Technology and DigiPen Institute of Technology.
 I mostly work in C and C++.
 
-[Portfolio](https://siestasies.github.io/) · [LinkedIn](https://www.linkedin.com/in/javier-chua/) · javierchua001@gmail.com
+[Portfolio](https://siestasies.github.io/)
+[LinkedIn](https://www.linkedin.com/in/javier-chua/)
+E-mail: javierchua001@gmail.com
 
 ## Currently working on
 **AnytimeReno** (ongoing school group project, team of seven, private repo):
